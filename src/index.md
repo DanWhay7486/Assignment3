@@ -1,6 +1,6 @@
 # Project Reports
 
-Daniel Whalyand
+Daniel Whayland
 
 * [Tests](./reports/tests/test/)
 * [JavaDoc](./reports/javadoc/)
